@@ -1,5 +1,5 @@
 # Hello, I'm Keenan
-<a href="www.linkedin.com/in/keenandimmock"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/keenandimmock/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a current student with a profound interest in technology and the world of cybersecurity. I have developed a strong foundation in identifying and mitigating security threats, and I enjoy solving complex problems.
 
